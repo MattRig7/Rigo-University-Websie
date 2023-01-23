@@ -1,0 +1,1 @@
+<footer> <small>&copy; MATTHEW RIGO 2020 </small></footer>    
